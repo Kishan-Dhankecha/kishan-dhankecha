@@ -10,9 +10,18 @@ Developer dev = Developer(
   interests: ['Playing Minecraft', 'Listening Music'],
 );
 ```
-![ViewCount](https://views.whatilearened.today/views/github/kishan-dhankecha/views.svg)
+<details>
+  <summary>Stack Overflow</summary>
+  <p align="center">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=14212524&theme=dark" alt="Kishan Dhankecha StackOverflow" />
+  </p>
+</details>
 
-### Stackoverflow
-
-[<img src="https://stackoverflow.com/users/flair/14212524.png?theme=dark" alt="Kishan Dhankecha StackOverflow"/>](https://stackoverflow.com/users/14212524/kishan-dhankecha)
-
+<details>
+  <summary>Github Stats</summary>
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kishan-dhankecha&show_icons=true&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-dhankecha&theme=tokyonight" /></br></br>
+    <img src="https://views.whatilearened.today/views/github/kishan-dhankecha/views.svg" />
+  </p>
+</details>
